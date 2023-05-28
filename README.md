@@ -1,5 +1,9 @@
 # minimal-react-portfolio
 
+[DEMO](https://phenomenal-bavarois-d932e6.netlify.app/) 
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b3289418-59ac-4f5d-8744-478d32efbe3a/deploy-status)](https://app.netlify.com/sites/phenomenal-bavarois-d932e6/deploys)
+
 ## Overview
 
 This is a simple React/TypeScript/TailwindCSS portfolio. It is pretty much plug and play, simply update the `Education`, `Experience`, `Skills`, `About`, `Projects`, and `Contact` constants and it will automatically build each section.
