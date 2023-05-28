@@ -6,9 +6,9 @@
 
 ## Overview
 
-This is a simple React/TypeScript/TailwindCSS portfolio. It is pretty much plug and play, simply update the `Education`, `Experience`, `Skills`, `About`, `Projects`, and `Contact` constants and it will automatically build each section.
+This is a simple React/TypeScript/TailwindCSS portfolio. It is pretty much plug and play, simply update the `Education`, `Experience`, `Skills`, `About`, `Projects`, and `Contact` components and it will automatically build each section.
 
-If you want to add more sections, simply add a new object to the `items` array. The `name` of your object will create a new button with that name, and the `data` can either be a string or a new JSX Element (just make a new const like `aboutData`, `educationData`, etc.).
+If you want to add more sections, simply add a new object to the `items` array. The `name` of your object will create a new button with that name, and the `data` can either be a string or a new JSX Element (just make a new component like `aboutData`, `educationData`, etc. and import).
 
 ![minimal-react-portfolio](https://github.com/tpbnick/minimal-react-portfolio/assets/49327729/115ac2fe-1dba-40ea-92bb-eddbef6a52ba)
 
