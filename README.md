@@ -1,8 +1,8 @@
 # minimal-react-portfolio
 
-[DEMO](https://phenomenal-bavarois-d932e6.netlify.app/) 
+[Demo](https://minimal-portfolio-react.netlify.app/)
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/b3289418-59ac-4f5d-8744-478d32efbe3a/deploy-status)](https://app.netlify.com/sites/phenomenal-bavarois-d932e6/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b3289418-59ac-4f5d-8744-478d32efbe3a/deploy-status)](https://app.netlify.com/sites/minimal-portfolio-react/deploys)
 
 ## Overview
 
